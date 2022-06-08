@@ -4,7 +4,7 @@
  *print_alphabet_10x -> prints alphabets 10 x
  */
 
-void print_alphabet_10x(void);
+void print_alphabet_10x(void)
 {
 	int j;
 	int x;
